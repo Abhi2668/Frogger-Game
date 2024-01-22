@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">froggerApp</string>
+    <string-array name="difficulties">
+        <item>"easy"</item>
+        <item>"medium"</item>
+        <item>"hard"</item>
+    </string-array>
+</resources>
